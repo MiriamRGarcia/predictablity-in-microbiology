@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Post Index
+# Index
 
 Short posts on whether we can predict biological phenomena in microbiology
 
