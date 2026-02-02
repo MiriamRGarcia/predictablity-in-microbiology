@@ -14,5 +14,5 @@ titles_from_headings:
 # Only these pages will show as header links:
 header_pages:
   - index.md           # optional
-``
+
   
