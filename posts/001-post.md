@@ -16,4 +16,6 @@ A systems‑biology perspective strengthens prediction by integrating multiple l
 
 Predictability is constrained by random mutations, genetic drift, epistasis, and the enormous dimensionality of genotype space, all of which introduce divergence in evolutionary paths. Environmental complexity and incomplete data further reduce accuracy. The authors emphasise that only short‑timescale microevolution is meaningfully predictable, whereas macroevolution remains unreachable. However, they also show that strong selection narrows evolutionary options, increasing repeatability and thus improving predictability—a key insight for designing experiments and potentially for shaping therapeutic strategies.
 
-<-- I have read mainly the first part of the paper, I like it a lot the discussion about reproducibility and ability to predict the final distribution 02/02/2026-->
+<!--
+02/02/2026 I have read mainly the first part of the paper, I like it a lot the discussion about reproducibility and ability to predict the final distribution 
+-->
