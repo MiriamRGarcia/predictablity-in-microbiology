@@ -1,9 +1,7 @@
 ---
 layout: home
-
 ---
 
-# Predictability in Microbiology
 
 Short posts on whether we can predict biological phenomena in microbiology
 
