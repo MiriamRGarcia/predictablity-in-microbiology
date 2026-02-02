@@ -6,5 +6,5 @@ layout: home
 
 Short posts on whether we can predict biological phenomena in microbiology
 
-- [001 - Can we predict antimicrobial resistance evolution?](posts/001-post.md)
-- [002 - Can we predict XXX?](posts/002-post.md)
+- [Can we predict antimicrobial resistance evolution?- A review](posts/Charlebois_2023.md)
+- [Can we predict probability of electropation based on pulse duration and electrical field?- A theoretical derivation](posts/Saulis_1993.md)
