@@ -1,4 +1,4 @@
-# Can we predict antimicrobial resistance evolution?
+# Can we predict evolution (part II) of AMR?
 
 **Paper**
 
@@ -6,7 +6,9 @@
 
 **What is being predicted**
 
-The review shows that AMR prediction focuses on probabilities of resistance mutations, likely evolutionary endpoints, and short‑term phenotypic or fitness changes, rather than exact mutational sequences. Predictability tends to increase at higher biological scales (e.g., resistance mechanisms or phenotypes) and decreases at very fine genetic resolution. Crucially, under strong and consistent selective pressures, microbial evolution often converges, making resistance outcomes more predictable and more repeatable across independent experiments.
+The review shows that AMR prediction focuses on probabilities of resistance mutations, likely evolutionary endpoints, and short‑term phenotypic or fitness changes, rather than exact mutational sequences. Predictability tends to increase at higher biological scales (e.g., resistance mechanisms or phenotypes) and decreases at very fine genetic resolution. Crucially, under strong and consistent selective pressures, microbial evolution often converges, making resistance outcomes more predictable and more repeatable across independent experiments. 
+
+For a similar review, but older see [Petrungaro_2021](Petrungaro_2021.md)
 
 **How**
 
@@ -19,3 +21,5 @@ Predictability is constrained by random mutations, genetic drift, epistasis, and
 <!--
 02/02/2026 I have read mainly the first part of the paper, I like it a lot the discussion about reproducibility and ability to predict the final distribution 
 -->
+
+- Focused on antibiotics, not discussing non-antibiotics antimicrobials
