@@ -1,4 +1,4 @@
-# Can we predict evolution (part I) of AMR?
+# Can we predict evolution of AMR?
 
 ### Paper
 
@@ -39,4 +39,4 @@ Overall, despite major advances, the field is still far from robust clinical‑g
 02/02/2026 I have read mainly the first part of the paper, I like it a lot the discussion about reproducibility and ability to predict the final distribution 
 -->
 
-<!--- 03/02/2026-->
+<!--- 03/02/2026--

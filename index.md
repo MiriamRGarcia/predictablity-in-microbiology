@@ -8,11 +8,15 @@ Short posts on whether we can predict biological phenomena in microbiology
 
 ### Can we predict...
 
-- [evolution (part I) of AMR?- A review](posts/Petrungaro_2021.md)
-- [evolution (par II) of AMR?- A review](posts/Charlebois_2023.md)
-- [ALE in Mini-Bioreactors?-A review](posts/Pedreira_2026.md)
-- [probability of memberane electropation based on pulse duration and electrical field?- A theoretical derivation](posts/Saulis_1993.md)
-- [impact of PEF bacterial inactivation when inserting grids in a co-linear treatment chamber?- A simulation study](posts/Jaeger_2009.md)
+| Can we predict...                                                                                                      | name                     |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [... evolution of AMR?](posts/Petrungaro_2021.md)                                                                      | A review 2021            |
+| [... evolution of AMR?](posts/Charlebois_2023.md)                                                                      | A review 2023            |
+| [... ALE in mini-bioreactors?](posts/Pedreira_2026.md)                                                                 | A review 2026            |
+| [... probability of memberane electropation based on pulse duration and electrical field?](posts/Saulis_1993.md)       | A theoretical derivation |
+| [...impact of PEF bacterial inactivation when inserting grids in a co-linear treatment chamber?](posts/Jaeger_2009.md) | A simulation study       |
+
+
 
 ### Acronyms
 

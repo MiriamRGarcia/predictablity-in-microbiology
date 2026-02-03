@@ -1,4 +1,4 @@
-# Can we predict evolution (part II) of AMR?
+# Can we predict evolution of AMR?
 
 **Paper**
 
