@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Can we predict bacterial electroporation?
 
 ## Paper
