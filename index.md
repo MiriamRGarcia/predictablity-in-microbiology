@@ -9,7 +9,7 @@ Short posts on whether we can predict biological phenomena in microbiology
 | Can we predict...                                                                                                      | Type of study            | 1st author & year |
 | ---------------------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------- |
 | (AMR-related)                                                                                                          |                          |                   |
-| [...AMR using mathematical modelling?](posts/Schardong_2026.md)                                                        | A systematic review 2026 | Schardong 2026    |
+| [...AMR using mathematical modelling?](posts/Schardong_2026p.md)                                                       | A systematic review 2026 | Schardong 2026    |
 | [... evolution of AMR using systems biology?](posts/Petrungaro_2021.md)                                                | A review 2021            | Petrungaro 2021   |
 | [... evolution of AMR  using systems biology?](posts/Charlebois_2023.md)                                               | A review 2023            | Charlebois 2023   |
 | [... ALE in mini-bioreactors?](posts/Pedreira_2026.md)                                                                 | A review 2026            | Pedreira 2026     |
