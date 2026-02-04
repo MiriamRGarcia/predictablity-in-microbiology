@@ -22,7 +22,7 @@ For a similar review, but newer see [Charlebois_2023](Charlebois_2023.md)
 The prediction approach is systems‑biology‑driven, combining high‑throughput experimentation with mathematical modeling:
 
 - Massively parallel evolution experiments track large numbers of lineages via chromosomal barcoding and next‑generation sequencing, enabling quantitative inference of fitness distributions and stochastic population dynamics. 
-- Controlled experimental systems (e.g., morbidostats, automated evolution platforms) regulate population size and real‑time selection pressure to reveal evolutionary trajectories under reproducible conditions. [Pedreira_2026](Pedreira_2026)
+- Controlled experimental systems (e.g., morbidostats, automated evolution platforms) regulate population size and real‑time selection pressure to reveal evolutionary trajectories under reproducible conditions. [Pedreira_2026](Pedreira_2026.md)
 - Mathematical and stochastic models integrate mutation rates, phenotypic delay, demographic noise, and competition to predict establishment probabilities and patterns of fixation.
 - Quantitative cell‑physiology models (growth laws linking ribosomes, growth rate, and drug effects) allow prediction of environment‑dependent fitness trade-offs and resistance mechanisms.
 - Genome‑wide perturbation screens identify genes that modulate evolvability; this feeds into predictive frameworks by mapping how genetic architecture constrains mutational pathways. 
