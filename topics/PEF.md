@@ -14,11 +14,7 @@ bridge, pp 9–39 #todo
 
 - Measure if a cell is porated or not if an increase in membrane permeability (under the influence of an electric pulse or spontaneously) to the smallest ions (Na+, K+, Rb+) must be such that it can be distinguished from the background level of permeability. ([Saulis_1993](../posts/Saulis_1993.md))
 - pores induced by exposure to an electric pulse leading to the poration of almost 100% of the cells are smaller than 0.5-1.0 nm ([Saulis_1993](../posts/Saulis_1993.md))
-- Schemnatic representation of the process 
-![](../posts/attachments/Saulis_2010_20260204.png)
-
-
+- Schemnatic representation of the process  [here](https://link.springer.com/article/10.1007/s12393-010-9023-3/figures/1)
 - Equations relating electrical field with transmembrane potential. It depends of the type of wave (square-wave, pulse) see for example [Saulis_2010](../posts/Saulis_2010.md) 
-![](attachments/PEF_transmembraneE_20260204.png)
 - 
 - 
