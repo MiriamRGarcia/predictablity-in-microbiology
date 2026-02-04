@@ -1,4 +1,15 @@
- <!-- MathJax config -->
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<title>{{ page.title | escape }} | {{ site.title | escape }}</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+{%- seo -%}
+
+<!-- MathJax configuration -->
 <script>
   window.MathJax = {
     tex: {
@@ -9,5 +20,4 @@
 </script>
 
 <!-- Load MathJax v3 -->
-<script async id="MathJax-script"
-        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
