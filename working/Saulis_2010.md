@@ -16,9 +16,9 @@ Cell electroporation to describe this can be seen [here](https://link.springer.c
 
 It discusses the mechanisms of electroporesis with three leves of damage (1) electroporation, (2) electropermeabilization and (3) Cell death/inactivation (see figure). For modelling this under PEF there are certain steps that should be considered and modelled
 
-- The increase in the transmembrane Potential by an external Electric Field
+- The increase in the trans-membrane Potential by an external Electric Field
 - Pore initiation Stage
 
 ## Limitations/open problems
 
-<!-- In most of the models of transmembrane Potential  the resting potential is disregarded  (assumed 0). -->
+<!-- In most of the models of trans-membrane Potential  the resting potential is disregarded  (assumed 0). -->
